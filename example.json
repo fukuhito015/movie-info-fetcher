@@ -1,0 +1,23 @@
+[
+  {
+    "title": "バック・トゥ・ザ・フューチャー",
+    "thumb_url": "https://example.com/back-to-the-future.jpg",
+    "description": "高校生マーティと天才科学者ドクがタイムマシンで過去と未来を駆け巡る冒険活劇。",
+    "year": 1985,
+    "persons": ["マイケル・J・フォックス", "クリストファー・ロイド"]
+  },
+  {
+    "title": "タイムクライム",
+    "thumb_url": "https://example.com/timecrimes.jpg",
+    "description": "男がタイムマシンを用いて自身の過去を変えようとするが、予想外の時間ループに巻き込まれるスリリングなサスペンス映画。",
+    "year": 2007,
+    "persons": ["カルロス・アレンガ"]
+  },
+  {
+    "title": "インターステラー",
+    "thumb_url": "https://example.com/interstellar.jpg",
+    "description": "人類の未来が絶望的な状況となった中、宇宙船を使ったタイムトラベルにより人類の存続をかけた冒険が描かれるSF映画。",
+    "year": 2014,
+    "persons": ["マシュー・マコノヒー", "アン・ハサウェイ"]
+  }
+]
